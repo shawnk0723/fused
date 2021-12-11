@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://fused:fused@cluster0.xpran.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
